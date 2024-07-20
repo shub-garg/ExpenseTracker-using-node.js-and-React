@@ -10,6 +10,8 @@ An Expense Tracker application built with React, Node.js, Express, and MongoDB t
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
 - [License](#license)
+
+
 ![Recording2024-07-20061649-ezgif com-optimize](https://github.com/user-attachments/assets/64e35882-fa9c-497c-90ec-802331e0d6f9)
 
 ## Features
