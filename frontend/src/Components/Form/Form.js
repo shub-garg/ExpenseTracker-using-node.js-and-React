@@ -28,7 +28,6 @@ function Form() {
     const handleSubmit = e => {
         e.preventDefault()
         const updated = {...inputState, userid: user}
-        console.log(updated)
         addIncome(updated)
         setInputState({
             title: '',
